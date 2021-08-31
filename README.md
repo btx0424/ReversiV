@@ -7,9 +7,10 @@ The training took around 10 hours (with multi-process data collection) on an RTX
 
 [Report](https://github.com/sustc11810424/ReversiV/blob/main/report.pdf)
 
+(my first python project that involved machine learning back then, so really messy code)
 
 
-
+The architecture of the value network:
 
 ![network.png](https://github.com/sustc11810424/ReversiV/blob/main/figures/network.png?raw=true)
 
