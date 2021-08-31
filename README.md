@@ -5,7 +5,7 @@ The competition only allowed one source file for submission, so I had to hard-co
 
 The training took around 10 hours (with multi-process data collection) on an RTX2080. The final rank was 5/140+. 
 
-[Report]()
+[Report](https://github.com/sustc11810424/ReversiV/blob/main/report.pdf)
 
 
 
